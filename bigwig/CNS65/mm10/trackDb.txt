@@ -1,0 +1,100 @@
+track CNS65_CF
+bigDataUrl CNS65_CF.bw
+shortLabel CNS65_CF
+longLabel CNS65_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_FB
+bigDataUrl CNS65_FB.bw
+shortLabel CNS65_FB
+longLabel CNS65_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_FL
+bigDataUrl CNS65_FL.bw
+shortLabel CNS65_FL
+longLabel CNS65_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_HB
+bigDataUrl CNS65_HB.bw
+shortLabel CNS65_HB
+longLabel CNS65_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_HL
+bigDataUrl CNS65_HL.bw
+shortLabel CNS65_HL
+longLabel CNS65_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_HR
+bigDataUrl CNS65_HR.bw
+shortLabel CNS65_HR
+longLabel CNS65_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_MB
+bigDataUrl CNS65_MB.bw
+shortLabel CNS65_MB
+longLabel CNS65_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_NT
+bigDataUrl CNS65_NT.bw
+shortLabel CNS65_NT
+longLabel CNS65_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_TK
+bigDataUrl CNS65_TK.bw
+shortLabel CNS65_TK
+longLabel CNS65_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track CNS65_TL
+bigDataUrl CNS65_TL.bw
+shortLabel CNS65_TL
+longLabel CNS65_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
