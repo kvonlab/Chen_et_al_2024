@@ -1,0 +1,5 @@
+hub hub_enh
+shortLabel hs71_ecHiC
+longLabel hs71_enhancer_capture_Hi-C
+genomesFile genomes.txt
+email zhuoxinc@uci.edu

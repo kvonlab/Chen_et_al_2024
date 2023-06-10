@@ -1,0 +1,100 @@
+track hs264_CF
+bigDataUrl hs264_CF.bw
+shortLabel hs264_CF
+longLabel hs264_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_FB
+bigDataUrl hs264_FB.bw
+shortLabel hs264_FB
+longLabel hs264_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_FL
+bigDataUrl hs264_FL.bw
+shortLabel hs264_FL
+longLabel hs264_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_HB
+bigDataUrl hs264_HB.bw
+shortLabel hs264_HB
+longLabel hs264_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_HL
+bigDataUrl hs264_HL.bw
+shortLabel hs264_HL
+longLabel hs264_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_HR
+bigDataUrl hs264_HR.bw
+shortLabel hs264_HR
+longLabel hs264_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_MB
+bigDataUrl hs264_MB.bw
+shortLabel hs264_MB
+longLabel hs264_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_NT
+bigDataUrl hs264_NT.bw
+shortLabel hs264_NT
+longLabel hs264_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_TK
+bigDataUrl hs264_TK.bw
+shortLabel hs264_TK
+longLabel hs264_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs264_TL
+bigDataUrl hs264_TL.bw
+shortLabel hs264_TL
+longLabel hs264_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+

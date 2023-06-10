@@ -1,0 +1,100 @@
+track hs85_CF
+bigDataUrl hs85_CF.bw
+shortLabel hs85_CF
+longLabel hs85_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_FB
+bigDataUrl hs85_FB.bw
+shortLabel hs85_FB
+longLabel hs85_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_FL
+bigDataUrl hs85_FL.bw
+shortLabel hs85_FL
+longLabel hs85_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_HB
+bigDataUrl hs85_HB.bw
+shortLabel hs85_HB
+longLabel hs85_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_HL
+bigDataUrl hs85_HL.bw
+shortLabel hs85_HL
+longLabel hs85_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_HR
+bigDataUrl hs85_HR.bw
+shortLabel hs85_HR
+longLabel hs85_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_MB
+bigDataUrl hs85_MB.bw
+shortLabel hs85_MB
+longLabel hs85_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_NT
+bigDataUrl hs85_NT.bw
+shortLabel hs85_NT
+longLabel hs85_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_TK
+bigDataUrl hs85_TK.bw
+shortLabel hs85_TK
+longLabel hs85_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs85_TL
+bigDataUrl hs85_TL.bw
+shortLabel hs85_TL
+longLabel hs85_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+

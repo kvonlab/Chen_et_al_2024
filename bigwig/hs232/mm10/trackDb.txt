@@ -1,0 +1,100 @@
+track hs232_CF
+bigDataUrl hs232_CF.bw
+shortLabel hs232_CF
+longLabel hs232_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_FB
+bigDataUrl hs232_FB.bw
+shortLabel hs232_FB
+longLabel hs232_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_FL
+bigDataUrl hs232_FL.bw
+shortLabel hs232_FL
+longLabel hs232_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_HB
+bigDataUrl hs232_HB.bw
+shortLabel hs232_HB
+longLabel hs232_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_HL
+bigDataUrl hs232_HL.bw
+shortLabel hs232_HL
+longLabel hs232_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_HR
+bigDataUrl hs232_HR.bw
+shortLabel hs232_HR
+longLabel hs232_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_MB
+bigDataUrl hs232_MB.bw
+shortLabel hs232_MB
+longLabel hs232_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_NT
+bigDataUrl hs232_NT.bw
+shortLabel hs232_NT
+longLabel hs232_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_TK
+bigDataUrl hs232_TK.bw
+shortLabel hs232_TK
+longLabel hs232_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs232_TL
+bigDataUrl hs232_TL.bw
+shortLabel hs232_TL
+longLabel hs232_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
