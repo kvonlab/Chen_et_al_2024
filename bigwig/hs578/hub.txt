@@ -1,0 +1,5 @@
+hub hub_enh
+shortLabel hs578_ecHiC
+longLabel hs578_enhancer_capture_Hi-C
+genomesFile genomes.txt
+email zhuoxinc@uci.edu

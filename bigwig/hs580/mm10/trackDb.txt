@@ -1,0 +1,100 @@
+track hs580_CF
+bigDataUrl hs580_CF.bw
+shortLabel hs580_CF
+longLabel hs580_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_FB
+bigDataUrl hs580_FB.bw
+shortLabel hs580_FB
+longLabel hs580_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_FL
+bigDataUrl hs580_FL.bw
+shortLabel hs580_FL
+longLabel hs580_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_HB
+bigDataUrl hs580_HB.bw
+shortLabel hs580_HB
+longLabel hs580_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_HL
+bigDataUrl hs580_HL.bw
+shortLabel hs580_HL
+longLabel hs580_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_HR
+bigDataUrl hs580_HR.bw
+shortLabel hs580_HR
+longLabel hs580_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_MB
+bigDataUrl hs580_MB.bw
+shortLabel hs580_MB
+longLabel hs580_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_NT
+bigDataUrl hs580_NT.bw
+shortLabel hs580_NT
+longLabel hs580_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_TK
+bigDataUrl hs580_TK.bw
+shortLabel hs580_TK
+longLabel hs580_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs580_TL
+bigDataUrl hs580_TL.bw
+shortLabel hs580_TL
+longLabel hs580_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
