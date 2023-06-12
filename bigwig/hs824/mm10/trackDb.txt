@@ -1,0 +1,100 @@
+track hs824_CF
+bigDataUrl hs824_CF.bw
+shortLabel hs824_CF
+longLabel hs824_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_FB
+bigDataUrl hs824_FB.bw
+shortLabel hs824_FB
+longLabel hs824_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_FL
+bigDataUrl hs824_FL.bw
+shortLabel hs824_FL
+longLabel hs824_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_HB
+bigDataUrl hs824_HB.bw
+shortLabel hs824_HB
+longLabel hs824_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_HL
+bigDataUrl hs824_HL.bw
+shortLabel hs824_HL
+longLabel hs824_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_HR
+bigDataUrl hs824_HR.bw
+shortLabel hs824_HR
+longLabel hs824_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_MB
+bigDataUrl hs824_MB.bw
+shortLabel hs824_MB
+longLabel hs824_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_NT
+bigDataUrl hs824_NT.bw
+shortLabel hs824_NT
+longLabel hs824_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_TK
+bigDataUrl hs824_TK.bw
+shortLabel hs824_TK
+longLabel hs824_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs824_TL
+bigDataUrl hs824_TL.bw
+shortLabel hs824_TL
+longLabel hs824_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
