@@ -1,0 +1,100 @@
+track mm265_CF
+bigDataUrl mm265_CF.bw
+shortLabel mm265_CF
+longLabel mm265_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_FB
+bigDataUrl mm265_FB.bw
+shortLabel mm265_FB
+longLabel mm265_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_FL
+bigDataUrl mm265_FL.bw
+shortLabel mm265_FL
+longLabel mm265_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_HB
+bigDataUrl mm265_HB.bw
+shortLabel mm265_HB
+longLabel mm265_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_HL
+bigDataUrl mm265_HL.bw
+shortLabel mm265_HL
+longLabel mm265_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_HR
+bigDataUrl mm265_HR.bw
+shortLabel mm265_HR
+longLabel mm265_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_MB
+bigDataUrl mm265_MB.bw
+shortLabel mm265_MB
+longLabel mm265_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_NT
+bigDataUrl mm265_NT.bw
+shortLabel mm265_NT
+longLabel mm265_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_TK
+bigDataUrl mm265_TK.bw
+shortLabel mm265_TK
+longLabel mm265_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm265_TL
+bigDataUrl mm265_TL.bw
+shortLabel mm265_TL
+longLabel mm265_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
