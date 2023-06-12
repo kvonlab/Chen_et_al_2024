@@ -1,0 +1,100 @@
+track ZRS_CF
+bigDataUrl ZRS_CF.bw
+shortLabel ZRS_CF
+longLabel ZRS_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_FB
+bigDataUrl ZRS_FB.bw
+shortLabel ZRS_FB
+longLabel ZRS_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_FL
+bigDataUrl ZRS_FL.bw
+shortLabel ZRS_FL
+longLabel ZRS_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_HB
+bigDataUrl ZRS_HB.bw
+shortLabel ZRS_HB
+longLabel ZRS_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_HL
+bigDataUrl ZRS_HL.bw
+shortLabel ZRS_HL
+longLabel ZRS_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_HR
+bigDataUrl ZRS_HR.bw
+shortLabel ZRS_HR
+longLabel ZRS_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_MB
+bigDataUrl ZRS_MB.bw
+shortLabel ZRS_MB
+longLabel ZRS_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_NT
+bigDataUrl ZRS_NT.bw
+shortLabel ZRS_NT
+longLabel ZRS_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_TK
+bigDataUrl ZRS_TK.bw
+shortLabel ZRS_TK
+longLabel ZRS_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track ZRS_TL
+bigDataUrl ZRS_TL.bw
+shortLabel ZRS_TL
+longLabel ZRS_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
