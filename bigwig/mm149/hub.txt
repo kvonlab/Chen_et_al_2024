@@ -1,0 +1,5 @@
+hub hub_enh
+shortLabel mm149_ecHiC
+longLabel mm149_enhancer_capture_Hi-C
+genomesFile genomes.txt
+email zhuoxinc@uci.edu
