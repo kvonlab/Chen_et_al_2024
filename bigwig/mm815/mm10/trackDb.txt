@@ -1,0 +1,100 @@
+track mm815_CF
+bigDataUrl mm815_CF.bw
+shortLabel mm815_CF
+longLabel mm815_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_FB
+bigDataUrl mm815_FB.bw
+shortLabel mm815_FB
+longLabel mm815_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_FL
+bigDataUrl mm815_FL.bw
+shortLabel mm815_FL
+longLabel mm815_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_HB
+bigDataUrl mm815_HB.bw
+shortLabel mm815_HB
+longLabel mm815_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_HL
+bigDataUrl mm815_HL.bw
+shortLabel mm815_HL
+longLabel mm815_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_HR
+bigDataUrl mm815_HR.bw
+shortLabel mm815_HR
+longLabel mm815_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_MB
+bigDataUrl mm815_MB.bw
+shortLabel mm815_MB
+longLabel mm815_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_NT
+bigDataUrl mm815_NT.bw
+shortLabel mm815_NT
+longLabel mm815_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_TK
+bigDataUrl mm815_TK.bw
+shortLabel mm815_TK
+longLabel mm815_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track mm815_TL
+bigDataUrl mm815_TL.bw
+shortLabel mm815_TL
+longLabel mm815_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
