@@ -1,0 +1,100 @@
+track hs1612_CF
+bigDataUrl hs1612_CF.bw
+shortLabel hs1612_CF
+longLabel hs1612_CF
+type bigWig
+color 199,91,124
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_FB
+bigDataUrl hs1612_FB.bw
+shortLabel hs1612_FB
+longLabel hs1612_FB
+type bigWig
+color 98,159,216
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_FL
+bigDataUrl hs1612_FL.bw
+shortLabel hs1612_FL
+longLabel hs1612_FL
+type bigWig
+color 201,149,22
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_HB
+bigDataUrl hs1612_HB.bw
+shortLabel hs1612_HB
+longLabel hs1612_HB
+type bigWig
+color 200,129,187
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_HL
+bigDataUrl hs1612_HL.bw
+shortLabel hs1612_HL
+longLabel hs1612_HL
+type bigWig
+color 207,207,60
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_HR
+bigDataUrl hs1612_HR.bw
+shortLabel hs1612_HR
+longLabel hs1612_HR
+type bigWig
+color 200,55,55
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_MB
+bigDataUrl hs1612_MB.bw
+shortLabel hs1612_MB
+longLabel hs1612_MB
+type bigWig
+color 113,107,189
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_NT
+bigDataUrl hs1612_NT.bw
+shortLabel hs1612_NT
+longLabel hs1612_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_TK
+bigDataUrl hs1612_TK.bw
+shortLabel hs1612_TK
+longLabel hs1612_TK
+type bigWig
+color 193,209,125
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
+track hs1612_TL
+bigDataUrl hs1612_TL.bw
+shortLabel hs1612_TL
+longLabel hs1612_TL
+type bigWig
+color 59,128,154
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
